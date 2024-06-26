@@ -1,17 +1,32 @@
-# Aseprite-Glazed-Terracotta-Helper
-An Aseprite script for helping to make glazed terracotta textures for minecraft.
+# Aseprite-Glazed-Terracotta-Helpers
+Aseprite scripts for helping to make glazed terracotta textures for minecraft.
 
+## Full Feature Glazed Terractota editor
 Uses 45 degree mirroring and also rotates the resulting sprite into the 4 quadrants of the sprite.
 
 
+![demo](glazededitordemo.gif)
+
+## Only 45 Degree Mirror
+mirrors the sprite by 45 degrees.
+
+
+![demo](45_flip_demo.png)
+
+## Only Rotate Mirror
+rotates the bottom left image into the 4 quadrants.
+
+
+![demo](rotate_mirror_demo.png)
+
+
 ## Installation and Usage:
-1. Put 'glazed-terracotta-editor.lua' into Aseprite scripts folder (File->Scripts->Open Script Folder)
+1. Put .lua scripts into Aseprite scripts folder (File->Scripts->Open Script Folder)
 
-4. Make sure sprite takes up full canvas by placing pixels in the top left and bottom right
+2. Make sure sprite takes up full canvas by placing pixels in the top left and bottom right
 
-2. Run script with File->Scripts->glazed-terracotta-editor
+3. Run script with File->Scripts->script_to_run
 
-5. Updates only occur on bottom right corner of canvas.
 
 ## Also
 If you can make this run faster or cleaner, or want to edit bits and pieces to remove/add features, be my guest.
