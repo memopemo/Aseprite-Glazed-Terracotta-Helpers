@@ -1,7 +1,7 @@
 # Aseprite-Glazed-Terracotta-Helpers
 Aseprite scripts for helping to make glazed terracotta textures for minecraft.
 
-## Full Feature Glazed Terractota editor
+## Full Feature Glazed Terractota Editor
 Uses diagonal symmetry and also rotates the resulting sprite into the 4 quadrants of the sprite.
 
 
