@@ -21,7 +21,7 @@ end
 local fullsize = sprite.width
 local quadSize = sprite.width/2;
 
-print("~~~Glazed Terracotta Editor~~~")
+print("~~~45 Degree Mirror~~~")
 print("         by memopemo          ")
 print("To use, draw in the lower right quadrant of the sprite.")
 print("Have fun making beautiful shapes and designs!")
