@@ -7,13 +7,13 @@ Uses diagonal symmetry and also rotates the resulting sprite into the 4 quadrant
 
 ![demo](glazededitordemo.gif)
 
-## Only 45 Degree Mirror
-Mirrors the sprite by 45 degrees.
+## Only 45 Degree Symmetry
+Diagonal Symmetry by 45 degrees.
 
 
 ![demo](45_flip_demo.png)
 
-## Only Rotate Mirror
+## Only Rotate Symmetry
 Rotates the bottom right image into the 4 quadrants.
 
 
