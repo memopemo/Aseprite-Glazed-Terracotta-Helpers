@@ -1,11 +1,8 @@
 --[[
-Glazed Terracotta Editor
+Rotate Mirroring
 Author: memopemo
 
-An Aseprite script that alows the user to draw with an 45 degree mirroring. 
-It also will copy the result and rotates it into the other 4 quadrants to previewview it in context.
-
-you may also copy/paste the upper right quadrant into the lower right quadrant to view the alternate rotation of the block.
+An Aseprite script that alows the user to draw with the image being rotated into 4 quadrants.
 ]]--
 
 local sprite = app.sprite
@@ -21,7 +18,7 @@ end
 local fullsize = sprite.width
 local quadSize = sprite.width/2;
 
-print("~~~Glazed Terracotta Editor~~~")
+print("~~~Rotate Mirroring~~~")
 print("         by memopemo          ")
 print("To use, draw in the lower right quadrant of the sprite.")
 print("Have fun making beautiful shapes and designs!")
