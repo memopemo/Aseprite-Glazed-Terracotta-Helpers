@@ -2,7 +2,7 @@
 Aseprite scripts for helping to make glazed terracotta textures for minecraft.
 
 ## Full Feature Glazed Terractota editor
-Uses 45 degree mirroring and also rotates the resulting sprite into the 4 quadrants of the sprite.
+Uses diagonal symmetry and also rotates the resulting sprite into the 4 quadrants of the sprite.
 
 
 ![demo](glazededitordemo.gif)
