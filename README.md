@@ -30,3 +30,6 @@ rotates the bottom left image into the 4 quadrants.
 
 ## Also
 If you can make this run faster or cleaner, or want to edit bits and pieces to remove/add features, be my guest.
+
+## Why?
+There is no script i've seen online for 45 degree mirroring, and since Aseprite wont add it in, ill do it myself.
