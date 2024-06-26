@@ -8,13 +8,13 @@ Uses 45 degree mirroring and also rotates the resulting sprite into the 4 quadra
 ![demo](glazededitordemo.gif)
 
 ## Only 45 Degree Mirror
-mirrors the sprite by 45 degrees.
+Mirrors the sprite by 45 degrees.
 
 
 ![demo](45_flip_demo.png)
 
 ## Only Rotate Mirror
-rotates the bottom left image into the 4 quadrants.
+Rotates the bottom right image into the 4 quadrants.
 
 
 ![demo](rotate_mirror_demo.png)
